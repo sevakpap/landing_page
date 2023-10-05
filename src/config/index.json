@@ -5,8 +5,8 @@
   },
   "navigation": [
     {
-      "name": "Product",
-      "href": "product"
+      "name": "Services",
+      "href": "services"
     },
     {
       "name": "Features",
@@ -40,7 +40,7 @@
       "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
     }
   },
-  "product": {
+  "services": {
     "title": "React landing page 2021",
     "items": [
       {
